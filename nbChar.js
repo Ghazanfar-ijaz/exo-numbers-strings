@@ -1,3 +1,5 @@
+// Un programme qui affiche le nombre de caractères que possède le texte suivant:
+
 let msg = `Je suis le ténébreux, - le veuf, - l'inconsolé,
 Le prince d'Aquitaine à la tour abolie :
 Ma seule étoile est morte, - et mon luth constellé
