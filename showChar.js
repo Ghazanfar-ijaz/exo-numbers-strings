@@ -1,3 +1,5 @@
+// Un programme qui affiche ligne par ligne, l'index et le caractère situé à cet index de la phrase suivante:
+
 let auteur = `Gustave Flaubert`
 let livre = `Salammbô`
 let msg = `C'était à Mégara, faubourg de Carthage, dans les jardins d'Hamilcar.`
