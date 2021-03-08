@@ -1,3 +1,4 @@
+// Un programme qui convertira les nombres suivants en binaire, octal et hexadécimal
 
 let a = 10
 let b = 15
